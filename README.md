@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hyunseung-Nam</h1>
 <h3 align="center">Python Automation & Data Collection Developer | Detail-Oriented Problem Solver</h3>
 
+- I'm working on various Python automation projects [Notice Alert Bot](https://github.com/Hyunseung-Nam/notice-alert-bot.git)
+
+- 🌱 I’m currently learning backend development with FastAPI **FastAPI**
+
 - 📫 How to reach me **namhyunseung.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
