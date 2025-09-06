@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hyunseung-Nam</h1>
+<h1 align="center">Hi 👋, I'm Hyunseung-Nam, I always do my best to deliver reliable results.</h1>
 <h3 align="center">Python Automation & Data Collection Developer | Detail-Oriented Problem Solver</h3>
 
 - I'm working on various Python automation projects [Notice Alert Bot](https://github.com/Hyunseung-Nam/notice-alert-bot.git)
