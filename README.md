@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hyunseung-Nam<br>
-  I design systems based on first principles and long-term maintainability.</h1>
+  I’m a system developer who builds tools that simplify and improve everyday workflows.</h1>
 <h3 align="center">Automation & System Developer | Designing Reliable, Maintainable Systems</h3>
 
 - 🌱 I’m currently learning backend development with FastAPI **FastAPI**
