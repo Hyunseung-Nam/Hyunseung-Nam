@@ -2,8 +2,6 @@
   I design systems based on first principles and long-term maintainability.</h1>
 <h3 align="center">Automation & System Developer | Designing Reliable, Maintainable Systems</h3>
 
-- I'm working on various Python automation projects [excel statement analyzer](https://github.com/Hyunseung-Nam/Client_Point_Manager.git)
-
 - 🌱 I’m currently learning backend development with FastAPI **FastAPI**
 
 - 📫 How to reach me **namhyunseung.work@gmail.com**
