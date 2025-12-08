@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hyunseung-Nam<br>
-  I always do my best to deliver reliable results.</h1>
+  I design systems based on first principles and long-term maintainability.</h1>
 <h3 align="center">Python Automation & Data Collection Developer | Detail-Oriented Problem Solver</h3>
 
-- I'm working on various Python automation projects [excel statement analyzer](https://github.com/Hyunseung-Nam/excel_statement_analyzer.git)
+- I'm working on various Python automation projects [excel statement analyzer](https://github.com/Hyunseung-Nam/Client_Point_Manager.git)
 
 - 🌱 I’m currently learning backend development with FastAPI **FastAPI**
 
