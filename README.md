@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hyunseung-Nam<br>
   I design systems based on first principles and long-term maintainability.</h1>
-<h3 align="center">Python Automation & Data Collection Developer | Detail-Oriented Problem Solver</h3>
+<h3 align="center">Automation & System Developer | Designing Reliable, Maintainable Systems</h3>
 
 - I'm working on various Python automation projects [excel statement analyzer](https://github.com/Hyunseung-Nam/Client_Point_Manager.git)
 
