@@ -5,10 +5,7 @@
 - 🛠 I develop desktop automation tools and micro-ERP/CRM systems for small businesses
 - 🌱 Currently deepening my backend skills with FastAPI & system-oriented architecture
 - 📫 How to reach me: **namhyunseung.work@gmail.com**
-- 
-<p>
-🔌 Interested in embedded systems and low-level software, alongside backend and automation engineering.
-</p>
+- 🔌 Interested in embedded systems and low-level software, alongside backend and automation engineering.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
