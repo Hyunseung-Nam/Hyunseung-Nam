@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hyunseung-Nam<br>
   I build high-quality automation tools and system software that streamline real-world business workflows.</h1>
 <h3 align="center"> System Developer · Automation Engineer · Backend-Focused</h3>
+<p align="center">
+  🌐 <a href="https://nhsportfolio.vercel.app/" target="_blank">
+    View My Portfolio
+  </a>
+</p>
 
 - 🛠 I develop desktop automation tools and micro-ERP/CRM systems for small businesses
 - 🌱 Currently deepening my backend skills with FastAPI & system-oriented architecture
