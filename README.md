@@ -7,10 +7,10 @@
   </a>
 </p>
 
-- 🛠 I develop desktop automation tools and micro-ERP/CRM systems for small businesses
+- 🛠 I build data pipelines and real-time monitoring systems, from signal acquisition to automated alerting
 - 🌱 Currently deepening my backend skills with FastAPI & system-oriented architecture
 - 📫 How to reach me: **namhyunseung.work@gmail.com**
-- 🔌 Interested in embedded systems and low-level software, alongside backend and automation engineering.
+- 🔌 Interested in system design and bridging hardware with software — from low-level signals to backend infrastructure
 
 <h3 align="left">Languages:</h3>
 <p align="left">
