@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Hyunseung-Nam<br>
-  I build high-quality automation tools and system software that streamline real-world business workflows.</h1>
-<h3 align="center"> System Developer · Automation Engineer · Backend-Focused</h3>
+  I build desktop tools and backend systems that automate real-world business workflows.</h1>
+<h3 align="center">Desktop Developer · Backend Engineer · System-Oriented</h3>
 <p align="center">
   🌐 <a href="https://nhsportfolio.vercel.app/" target="_blank">
     View My Portfolio
   </a>
 </p>
 
-- 🛠 I build data pipelines and real-time monitoring systems, from signal acquisition to automated alerting
+- 🛠 I build desktop tools and backend systems for inventory, CRM, and system diagnostics
 - 🌱 Currently deepening my backend skills with FastAPI & system-oriented architecture
 - 📫 How to reach me: **namhyunseung.work@gmail.com**
-- 🔌 Interested in system design and bridging hardware with software — from low-level signals to backend infrastructure
+- 🔌 Interested in system design, hardware-software integration, and real-time monitoring
 
 <h3 align="left">Languages:</h3>
 <p align="left">
